@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pr3_spa-project/static/css/main.096db7e3.css",
+    "main.js": "/pr3_spa-project/static/js/main.e644a0fc.js",
+    "index.html": "/pr3_spa-project/index.html",
+    "main.096db7e3.css.map": "/pr3_spa-project/static/css/main.096db7e3.css.map",
+    "main.e644a0fc.js.map": "/pr3_spa-project/static/js/main.e644a0fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.096db7e3.css",
+    "static/js/main.e644a0fc.js"
+  ]
+}
